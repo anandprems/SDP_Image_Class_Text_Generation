@@ -1,4 +1,5 @@
-🔥 Overview
+🔥 Overview:
+
 This repository contains materials from the 28th March 2025 session of the SDP on Generative AI, focusing on:
 
 📸 Image Classification Using Google Images – Classifying images fetched from Google.
